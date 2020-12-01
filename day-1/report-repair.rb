@@ -7,3 +7,8 @@ report-repair.rb: from input.text find the two entries that sum to 2020 and then
 
 import text file with list of numbers
 put numbers into a list
+define complementary number
+loop through list to find number
+print that we found the number! woohoo!
+multiply complementary and number
+print that the answer is found!
