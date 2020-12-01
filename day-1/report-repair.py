@@ -4,11 +4,21 @@ report-repair.py: from input.text find the two entries that sum to 2020 and then
 @Vicki_Langer
 """
 
-import text file with list of numbers
-put numbers into a list
-define complementary number
-loop through list to find number
-print that we found the number! woohoo!
-multiply complementary and number
-print that the answer is found!
 
+# import text file with list of numbers
+with open("day-1/input.txt") as raw_data:
+    data = raw_data.read()
+# put numbers into a list
+expense_report_numbers = [int(number) for number in data.split('\n') if number]
+
+
+year_number = 2020
+
+for i, expense in enumerate(expense_report_numbers[:-1]):  # don't need the last number
+    complementary_number = year_number - expense
+    if complementary_number in expense_report_numbers[i+1:]:
+        answer = complementary_number * expense
+        print(f"Found them! {complementary_number} * {expense} is {answer}")
+        break  # end loop when it finds the answer
+else:
+    print(f"no 2 numbers add up to {year_number}")
