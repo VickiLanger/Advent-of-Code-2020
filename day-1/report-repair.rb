@@ -5,3 +5,5 @@ report-repair.rb: solve puzzle at https://adventofcode.com/2020/day/1
 """
 
 
+import text file with list of numbers
+put numbers into a list
