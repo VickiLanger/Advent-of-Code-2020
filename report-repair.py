@@ -6,7 +6,7 @@ report-repair.py: from input.text find the two entries that sum to 2020 and then
 
 
 # import text file with list of numbers
-with open("day-1/input.txt") as raw_data:
+with open("inputs/day_1.txt") as raw_data:
     data = raw_data.read()
 # put numbers into a list
 expense_report_numbers = [int(number) for number in data.split('\n') if number]
