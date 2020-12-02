@@ -1,0 +1,9 @@
+"""
+{puzzle_name}.{lang_ext}: from day_{num}.txt {details of puzzle}; solve puzzle at https://adventofcode.com/2020/day/{num}
+X December 2020
+@Vicki_Langer / @VickiLanger
+"""
+
+
+import text file 
+put into a list
