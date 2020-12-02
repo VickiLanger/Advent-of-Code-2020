@@ -4,4 +4,13 @@ password-philosophy.rb: from day_2.txt find out how many passwords are valid acc
 @Vicki_Langer
 """
 
-read txt file
+read each line of txt file
+
+# \d numerical digit
+# \w alphanumeric characters
+# * zero or more
+
+
+use regex to .match
+use .captures # returns array of matches
+decide if valid with .between?
