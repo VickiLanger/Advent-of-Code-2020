@@ -6,18 +6,23 @@ Each day of December, a new 2-part puzzle is released. I may or may not do both 
 
 I like the idea of doing the same work in multiple different languages. It helps me understand the differences and gives me things to look back at. I suppose it also allows me to publically prove that I've done things with Ruby.
 ## Solutions by Day
-### Report Repair
+### Day 1 - Report Repair
 [Python](https://github.com/VickiLanger/Advent-of-Code-2020/blob/main/report-repair.py)
+
 [Ruby](https://github.com/VickiLanger/Advent-of-Code-2020/blob/main/report-repair.rb)
 ### Day 2 - Password Philosophy
 [Python](https://github.com/VickiLanger/Advent-of-Code-2020/blob/main/password-philosophy.py)
+
 [Ruby](https://github.com/VickiLanger/Advent-of-Code-2020/blob/main/password-philosophy.rb)
 ### Day 3 - TBD
 [Python]()
+
 [Ruby]()
 ### Day 4 - TBD
 [Python]()
+
 [Ruby]()
 ### Day 5 - TBD
 [Python]()
+
 [Ruby]()
