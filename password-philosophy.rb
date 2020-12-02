@@ -3,3 +3,5 @@ password-philosophy.rb: from day_2.txt find out how many passwords are valid acc
 2 December 2020
 @Vicki_Langer
 """
+
+read txt file

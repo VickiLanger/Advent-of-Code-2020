@@ -4,3 +4,5 @@ password-philosophy.py: from day_2.txt find out how many passwords are valid acc
 @Vicki_Langer
 """
 
+read txt file
+
