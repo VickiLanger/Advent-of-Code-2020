@@ -5,5 +5,5 @@ X December 2020
 """
 
 
-import text file 
-put into a list
+read text file
+print answer
