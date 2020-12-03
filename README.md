@@ -12,9 +12,9 @@ I like the idea of doing the same work in multiple different languages. It helps
 ### Day 2 - Password Philosophy
 [Python](https://github.com/VickiLanger/Advent-of-Code-2020/blob/main/password-philosophy.py) ||
 [Ruby](https://github.com/VickiLanger/Advent-of-Code-2020/blob/main/password-philosophy.rb)
-### Day 3 - TBD
-[Python]() ||
-[Ruby]()
+### Day 3 - Toboggan Trajectory
+[Python](https://github.com/VickiLanger/Advent-of-Code-2020/blob/main/toboggan-trajectory.py) ||
+[Ruby](https://github.com/VickiLanger/Advent-of-Code-2020/blob/main/toboggan-trajectory.rb)
 ### Day 4 - TBD
 [Python]() ||
 [Ruby]()
